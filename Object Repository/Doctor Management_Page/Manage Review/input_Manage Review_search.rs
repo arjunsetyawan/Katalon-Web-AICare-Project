@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Manage Review_search</name>
+   <tag></tag>
+   <elementGuidId>434453e2-85a3-46a6-8c9e-71b27eb2e73f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search for User's Name&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>277b86be-0c50-4116-9b75-cebf255c5280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f2c65f9c-045f-4bee-a78f-161ae55ae16b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>e449db9d-e0a6-4075-91b2-c771f671f338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control sm:w-40 2xl:w-full mt-2 sm:mt-0</value>
+      <webElementGuid>9acb1fc9-9398-4517-9764-03822b979b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search for User's Name</value>
+      <webElementGuid>2f4f585b-e277-469a-815c-647a4b8a4a39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;flex flex-col sm:flex-row sm:items-end xl:items-start&quot;]/form[@class=&quot;xl:flex sm:mr-auto&quot;]/div[@class=&quot;sm:flex items-center sm:mr-4 mt-2 xl:mt-0&quot;]/input[@class=&quot;form-control sm:w-40 2xl:w-full mt-2 sm:mt-0&quot;]</value>
+      <webElementGuid>c79855db-1d40-499b-8caa-026d1161063f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='search']</value>
+      <webElementGuid>05191fa6-e450-44f9-805e-6962adbaa18c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/input</value>
+      <webElementGuid>2fca0422-bba4-4177-8142-d467deb624ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'search' and @placeholder = concat(&quot;Search for User&quot; , &quot;'&quot; , &quot;s Name&quot;)]</value>
+      <webElementGuid>7b91921f-6b33-479b-9a5a-8ad9732ad050</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Sorting, Filter Rule Symptom Checker</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba8a0251-9843-4922-b1bf-4b05aff6e4e4</testCaseGuid>
+</TestCaseEntity>

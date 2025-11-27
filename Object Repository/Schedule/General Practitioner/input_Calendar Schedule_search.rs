@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Calendar Schedule_search</name>
+   <tag></tag>
+   <elementGuidId>b15581b8-5702-44e5-9f8f-1bcc2487c28c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search for Doctor's Name Here&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9ebfb95b-47d1-4beb-92bf-2c647aeaf1ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5d43aecc-e2c1-4632-b58b-fc90a09c8a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control w-[368px]</value>
+      <webElementGuid>0a8918c6-bdb0-411a-b1ce-dab33849a6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>8c2c7e57-cab8-4556-b2d4-426494af4eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search for Doctor's Name Here</value>
+      <webElementGuid>b86c4b36-1056-4134-9133-97c3adc5d3ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/form[1]/div[@class=&quot;intro-y flex flex-col sm:flex-row items-center mt-8&quot;]/div[@class=&quot;input-group items-center mr-auto&quot;]/input[@class=&quot;form-control w-[368px]&quot;]</value>
+      <webElementGuid>89ee1f72-e410-40eb-afe9-5241fd91118a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='search']</value>
+      <webElementGuid>f0dbff9d-b045-429f-a706-2cf80feeee27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>2632e77a-01e1-42cb-b54d-ffb3a9fb4766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'search' and @placeholder = concat(&quot;Search for Doctor&quot; , &quot;'&quot; , &quot;s Name Here&quot;)]</value>
+      <webElementGuid>f9c573d3-9246-4587-86e7-28d4bad426a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_deleted schedule</name>
+   <tag></tag>
+   <elementGuidId>72b4183a-4fa4-4b15-b439-e5c7a2229860</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialty'])[1]/preceding::th[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.whitespace-nowrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;# ▸&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>a6cbf0fb-8f93-4bce-8142-02c6d846314c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap</value>
+      <webElementGuid>f290b4e5-f60e-482c-8323-75c7f55b3026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>192b9f04-b80e-4730-ac1d-6f5c11c1c24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;overflow-x-auto scrollbar-hidden&quot;]/table[@class=&quot;table my-8 sortable&quot;]/thead[1]/tr[1]/th[@class=&quot;whitespace-nowrap&quot;]</value>
+      <webElementGuid>163a68e8-09d7-4099-a473-ac7d450daa7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialty'])[1]/preceding::th[2]</value>
+      <webElementGuid>d644c330-92a4-4bf2-ac5c-9c4f2dc858c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#']/parent::*</value>
+      <webElementGuid>c37626a1-30c0-4762-bf3b-654bbfb75bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th</value>
+      <webElementGuid>d5254f85-c8a3-40f5-b712-aa5be918d8d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = '#' or . = '#')]</value>
+      <webElementGuid>d487a1b7-00d5-46b9-841d-25b92d1dd4aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

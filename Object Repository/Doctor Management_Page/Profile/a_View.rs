@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View</name>
+   <tag></tag>
+   <elementGuidId>7d61111f-0754-4f9a-a249-5250de2cf1aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Disable'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.flex.items-center.text-primary.mr-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 68df5156b34c38b58e0e01e2 68df5157b34c38b58e0e01e3 dr DoctorID khairul umam Dokter Umum khairulumam950@gmail.com View Edit&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>39dd558c-119a-43a0-aa79-fd53fe54c426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center text-primary mr-5</value>
+      <webElementGuid>86de509e-4d8d-4bca-9091-cb52e2023ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>59a45322-a527-44f1-8a99-53938ac698bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://backoffice-stg.digitalsekuriti.id/doctor-profile/68df5157b34c38b58e0e01e3</value>
+      <webElementGuid>2d051f77-943c-4ce3-a63d-83cb82d80f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    View
+                                </value>
+      <webElementGuid>591de1de-6df2-4fe1-8a6f-24bdacd8e499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;overflow-x-auto scrollbar-hidden&quot;]/table[@class=&quot;table my-8 sortable&quot;]/tbody[1]/tr[1]/td[9]/div[@class=&quot;flex&quot;]/a[@class=&quot;flex items-center text-primary mr-5&quot;]</value>
+      <webElementGuid>afe104e9-a9e5-477b-b925-aac2b810ae8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Disable'])[1]/following::a[1]</value>
+      <webElementGuid>193ad3a5-e472-4423-92a3-7a6fc0ef3554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::a[1]</value>
+      <webElementGuid>abdfa5aa-3120-404c-b51b-bf1ea20d444c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>981cb1b1-99dc-4148-a600-1435380545c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://backoffice-stg.digitalsekuriti.id/doctor-profile/68df5157b34c38b58e0e01e3')]</value>
+      <webElementGuid>1943ac34-0ffe-4040-b354-7f79db57dd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/a</value>
+      <webElementGuid>2578b0e1-d2e5-4409-8456-97d0f1098e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://backoffice-stg.digitalsekuriti.id/doctor-profile/68df5157b34c38b58e0e01e3' and (text() = '
+                                    View
+                                ' or . = '
+                                    View
+                                ')]</value>
+      <webElementGuid>56533487-4be3-4445-b1bf-f8f5ded95773</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

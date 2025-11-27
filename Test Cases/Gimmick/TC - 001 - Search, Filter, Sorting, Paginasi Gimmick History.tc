@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Filter, Sorting, Paginasi Gimmick History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>efc5b784-931a-444a-b9d6-c1c35c264157</testCaseGuid>
+</TestCaseEntity>

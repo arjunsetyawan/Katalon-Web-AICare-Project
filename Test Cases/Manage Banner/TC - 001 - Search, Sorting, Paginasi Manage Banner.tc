@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Sorting, Paginasi Manage Banner</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44133af9-e8f5-4285-9f0f-14660ee3d33c</testCaseGuid>
+</TestCaseEntity>

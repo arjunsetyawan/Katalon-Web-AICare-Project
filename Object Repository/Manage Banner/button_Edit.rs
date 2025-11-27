@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>6274191c-2a5f-4345-aa84-0dee746d4bff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex.items-center.text-success.mr-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='active'])[2]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 Banner test About Us 4 Banner test ID Core Hematologi: Hemoglobin Ginjal: Asam Urat Elektrolit: Natrium active Show Edit Deactivate Delete&quot;i] >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ffe7d318-edd6-4652-a4ee-ca5d53ef5625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center text-success mr-5</value>
+      <webElementGuid>0f68702f-5a03-49d6-a4aa-d8f2cd51da28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>596ef904-4fb8-48b4-b7e3-ec77b508c4d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-target</name>
+      <type>Main</type>
+      <value>#edit-691d779ccadf232d030c7f92-modal</value>
+      <webElementGuid>f177cf15-2f3d-497d-a502-c3bcd335fb24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Edit
+                                </value>
+      <webElementGuid>712df251-622e-413b-809c-0c4cc0809454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;overflow-x-auto scrollbar-auto&quot;]/table[@class=&quot;table my-8 sortable&quot;]/tbody[1]/tr[1]/td[10]/div[@class=&quot;flex justify-center&quot;]/button[@class=&quot;flex items-center text-success mr-5&quot;]</value>
+      <webElementGuid>70642d49-9102-414b-9005-583176de6cda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='active'])[2]/following::button[1]</value>
+      <webElementGuid>c820ab4a-43c8-41b1-9bbf-68aaf22d6cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[3]/following::button[1]</value>
+      <webElementGuid>5be2a3ce-3dba-4117-aee3-548846b137dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Banner Banner test'])[1]/preceding::button[1]</value>
+      <webElementGuid>31383c7f-9141-4f94-a070-e26a233f4ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/preceding::button[1]</value>
+      <webElementGuid>5136cbc3-991e-4c5a-851a-d3d229775284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>ffa2deb1-01ff-43b5-a14d-485e751acb17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/button[2]</value>
+      <webElementGuid>596f2587-1ac5-4c55-adc9-1b2cd543b31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                                    Edit
+                                ' or . = '
+                                    Edit
+                                ')]</value>
+      <webElementGuid>120b1d68-5b27-4535-890b-1d97c71bd0d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

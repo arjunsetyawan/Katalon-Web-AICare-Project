@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 005 - Delete Medicine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fed4b3ea-6eac-4566-a678-b82877a8c547</testCaseGuid>
+</TestCaseEntity>

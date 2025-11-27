@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_booking type</name>
+   <tag></tag>
+   <elementGuidId>30452244-da1f-4c71-8d8f-fab8ef7520a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='booking']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#booking</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#booking</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>369ffb2d-fe29-496d-8cf6-ea9e1f90992f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>booking</value>
+      <webElementGuid>fab475ad-b234-4e76-9b3e-f78f0546b67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>booking</value>
+      <webElementGuid>2df2c1ef-1be5-4445-928d-ace2040323d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>this.form.submit()</value>
+      <webElementGuid>1cdc7e9c-e10a-4665-ab6a-5351fde7bf0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>All Booking Type</value>
+      <webElementGuid>e4fba331-fa8f-4c29-81e7-c2bb82d5df11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-filter ml-auto w-auto</value>
+      <webElementGuid>6f42b3cf-6b54-4614-a227-a62500c2f164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    All Booking Type
+                    Instant
+                    Later
+                </value>
+      <webElementGuid>bc9b58d1-b817-4174-971f-e7ace88c2973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking&quot;)</value>
+      <webElementGuid>b3b31a2f-71f8-4ee1-8e6c-7ef112f94571</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='booking']</value>
+      <webElementGuid>3078ef52-ed65-425a-bfb6-d7334d7d3066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[3]/following::select[2]</value>
+      <webElementGuid>0872ef74-5f13-4e80-a38f-42271c5aa7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage User Backoffice'])[2]/following::select[2]</value>
+      <webElementGuid>6d6cee3a-f0f6-467f-83c5-97f4d75df90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='November 20, 2025 - December 20, 2025'])[1]/preceding::select[3]</value>
+      <webElementGuid>64595e34-57bc-4e5a-8d8c-6f33d210f77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[4]</value>
+      <webElementGuid>8093954d-8408-4408-aefb-3a576bdff605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>5ee0d144-4e62-4efa-8abc-4990e0e1d360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'booking' and @id = 'booking' and @placeholder = 'All Booking Type' and (text() = '
+                    All Booking Type
+                    Instant
+                    Later
+                ' or . = '
+                    All Booking Type
+                    Instant
+                    Later
+                ')]</value>
+      <webElementGuid>809a6a75-1034-44b2-b60b-4b931967a23c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

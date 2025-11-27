@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_platform</name>
+   <tag></tag>
+   <elementGuidId>b5266c72-afe5-4ee2-8a5e-c2c062377536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ts-wrapper.cs-select.w-32.text-primary.single > div.ts-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='filter']/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(5) > .ts-control</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcf6ac79-722c-4b1f-be20-30f6dd385b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ts-control</value>
+      <webElementGuid>bf665797-dc64-49fb-8ca1-6e09693e51c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter&quot;)/div[@class=&quot;ts-wrapper cs-select w-32 text-primary single&quot;]/div[@class=&quot;ts-control&quot;]</value>
+      <webElementGuid>1ad0d140-d122-4d7c-b6f5-1b09a9d867c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='filter']/div[3]/div</value>
+      <webElementGuid>1575815d-5ad6-47cd-8bcb-b963ece3ba24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='October 21, 2025 - December 20, 2025'])[1]/following::div[6]</value>
+      <webElementGuid>1e05e7fa-52e0-490d-8223-1bfea515824a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Released Management'])[4]/following::div[10]</value>
+      <webElementGuid>eecd2c9b-9221-4c2f-9f33-2908c816965c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Version'])[1]/preceding::div[3]</value>
+      <webElementGuid>47a8c2de-afe1-49b0-a1bc-44d319e38a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div</value>
+      <webElementGuid>a51931c1-701f-485e-acf3-ebf23c38c114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

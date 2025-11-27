@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_back</name>
+   <tag></tag>
+   <elementGuidId>a421d251-c589-4165-adb6-ff0756fd1a9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next »'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;&amp;laquo; Previous&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a81ade0-dfaf-41e9-b370-87b498c4bfec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://backoffice-stg.digitalsekuriti.id/teleconsultation-order?value=&amp;status=&amp;booking=&amp;consultationMedia=&amp;creationTime=&amp;shift=&amp;start_date=&amp;end_date=&amp;page=1</value>
+      <webElementGuid>d776ca47-ee34-41fe-8195-be3ca8b58362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>prev</value>
+      <webElementGuid>2f6491c2-62b9-406c-bab1-de34fb7a8df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-flex items-center px-2 py-2 text-sm font-medium leading-5 transition bg-white rounded-full hover:bg-blue-100 hover:text-gray-400 focus:z-10 focus:outline-none focus:border-primary-300 focus:ring focus:ring-primary-300 focus:ring-opacity-30</value>
+      <webElementGuid>b3874071-cc1b-44c0-aba8-c16c0091beac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>&amp;laquo; Previous</value>
+      <webElementGuid>509eafad-2b23-4ec2-aa3c-82bc1458f1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nav[@class=&quot;flex items-center justify-between p-4 border-t select-none border-secondary-200 sm:px-6&quot;]/div[@class=&quot;flex-col hidden lg:flex-row sm:flex-1 sm:flex sm:items-center sm:justify-between&quot;]/div[2]/span[@class=&quot;relative z-0 inline-flex mt-2 lg:mt-0&quot;]/a[@class=&quot;relative inline-flex items-center px-2 py-2 text-sm font-medium leading-5 transition bg-white rounded-full hover:bg-blue-100 hover:text-gray-400 focus:z-10 focus:outline-none focus:border-primary-300 focus:ring focus:ring-primary-300 focus:ring-opacity-30&quot;]</value>
+      <webElementGuid>1a0305f7-6fff-4c63-a9c3-2e491ec60879</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next »'])[1]/following::a[1]</value>
+      <webElementGuid>26042378-b0ce-497d-9cc5-ff550083b413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='« Previous'])[1]/following::a[2]</value>
+      <webElementGuid>686a0661-58d7-4585-93fd-8da9ef284ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::a[10]</value>
+      <webElementGuid>8d5e63d3-62e3-4666-ad20-5383b9a3fb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::a[13]</value>
+      <webElementGuid>84f12ea7-4954-4e7c-9ca2-da629dac26e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://backoffice-stg.digitalsekuriti.id/teleconsultation-order?value=&amp;status=&amp;booking=&amp;consultationMedia=&amp;creationTime=&amp;shift=&amp;start_date=&amp;end_date=&amp;page=1')])[2]</value>
+      <webElementGuid>f667e337-1187-43d1-a5cf-b9ba0e18dcf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>72fe1d02-1a67-45d1-a1c9-93edf5de431f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://backoffice-stg.digitalsekuriti.id/teleconsultation-order?value=&amp;status=&amp;booking=&amp;consultationMedia=&amp;creationTime=&amp;shift=&amp;start_date=&amp;end_date=&amp;page=1']</value>
+      <webElementGuid>785009f7-7609-4fba-9d7b-608f5130e5c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

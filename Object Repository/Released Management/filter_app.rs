@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_app</name>
+   <tag></tag>
+   <elementGuidId>bd90bb28-644a-40e0-949d-1e0faaaa2a07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ts-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='filter']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ts-control >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>979c86eb-18e7-40b7-9128-6c35aeb6645b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ts-control</value>
+      <webElementGuid>24e86551-8854-4f29-b1de-76fdb3f789da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter&quot;)/div[@class=&quot;ts-wrapper cs-select min-w-32 w-auto text-primary single&quot;]/div[@class=&quot;ts-control&quot;]</value>
+      <webElementGuid>09ab7666-bd32-43cd-aa26-7f86e6af678a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='filter']/div[2]/div</value>
+      <webElementGuid>3f813654-0c29-47a1-ba0c-2778079b1226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='October 1, 2025 - October 31, 2025'])[1]/following::div[2]</value>
+      <webElementGuid>e522d5f3-ca50-43b9-9c62-f0b8e6e6a8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Released Management'])[4]/following::div[6]</value>
+      <webElementGuid>ecaa6270-af26-43a1-b801-2fe79a41fced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All App'])[3]/preceding::div[1]</value>
+      <webElementGuid>d6543ec5-2578-48a5-b9cc-7e63fd0ebdfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[2]/preceding::div[2]</value>
+      <webElementGuid>1ae98bba-a889-444e-b214-0a431f6d609b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>6bcc3fba-d3bf-4637-9af6-a41576f44c50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

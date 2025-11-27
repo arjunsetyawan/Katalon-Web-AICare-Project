@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 003 - Edit OAuth Client</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a27d3b97-5e2f-409c-90f7-7d1c84701604</testCaseGuid>
+</TestCaseEntity>

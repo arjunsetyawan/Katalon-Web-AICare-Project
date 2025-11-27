@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Choose Doctor Name</name>
+   <tag></tag>
+   <elementGuidId>52af521b-2bbd-4e8b-bd44-8464221d824f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='account']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Doctor Name&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6b419f44-ad42-4127-9d44-02057e943652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>account</value>
+      <webElementGuid>4509430e-7e28-4705-aee6-d80528c7c8d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>account</value>
+      <webElementGuid>daa73439-4bd2-4a2d-989a-8aa12cbb255b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full form-control</value>
+      <webElementGuid>555bd721-9e9d-4624-a3c6-729a2af98ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Choose Doctor Name</value>
+      <webElementGuid>05fb449a-0575-490c-96d7-eec08d19b384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Choose Doctor Name
+                                                    Rino
+                                                    Harun
+                                            </value>
+      <webElementGuid>cc23177e-7e10-47fb-9587-ff442188fbfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account&quot;)</value>
+      <webElementGuid>7a5e3df7-8e76-4820-9ce2-4e34a264cfcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='account']</value>
+      <webElementGuid>ae7cc4f3-bf87-48f9-9539-12ee0bd0ce8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor Name'])[1]/following::select[1]</value>
+      <webElementGuid>812414ee-9e46-459f-ae72-7f65f800f770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialty'])[1]/following::select[2]</value>
+      <webElementGuid>6715b051-b0fc-48a8-92c1-1cd9499fc0f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Shift'])[1]/preceding::select[1]</value>
+      <webElementGuid>d0cbb596-93ae-407e-abec-56fef5c8913c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>320bdcac-f42a-471f-8f2b-60cd8f3e639a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>8dd394f2-1dc2-4d1c-a416-b68b07b924f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'account' and @id = 'account' and @placeholder = 'Choose Doctor Name' and (text() = '
+                        Choose Doctor Name
+                                                    Rino
+                                                    Harun
+                                            ' or . = '
+                        Choose Doctor Name
+                                                    Rino
+                                                    Harun
+                                            ')]</value>
+      <webElementGuid>5716586b-d1b3-40cc-afee-04150004d453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

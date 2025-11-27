@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 004 - Delete OAuth Client</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9b18efb-4c0d-4973-8575-8769fd751b1c</testCaseGuid>
+</TestCaseEntity>

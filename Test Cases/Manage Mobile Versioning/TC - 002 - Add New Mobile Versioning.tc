@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 - Add New Mobile Versioning</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4a89f10-a046-4cf4-9022-622ab5bfcf21</testCaseGuid>
+</TestCaseEntity>

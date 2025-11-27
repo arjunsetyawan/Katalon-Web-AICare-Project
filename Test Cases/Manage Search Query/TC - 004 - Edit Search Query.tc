@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 004 - Edit Search Query</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d488639-e139-4bf3-a089-d2974d771bd2</testCaseGuid>
+</TestCaseEntity>

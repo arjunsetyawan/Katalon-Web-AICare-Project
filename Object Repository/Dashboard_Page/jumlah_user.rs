@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jumlah_user</name>
+   <tag></tag>
+   <elementGuidId>5cac3837-1152-427d-80bb-7a8b937cecc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Backoffice Users'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;2828 Ai Care Users&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f8fe0bf-943c-4005-a6a9-04471dc8598b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-3xl font-medium leading-8 mt-6</value>
+      <webElementGuid>42e306f2-23a8-4ee3-9eeb-2b0dd67526b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            2828
+                        </value>
+      <webElementGuid>9836947a-6f9f-479e-9ca3-d8bd397771a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;col-span-12 2xl:col-span-9&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;col-span-12 mt-8&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 mt-5&quot;]/a[@class=&quot;col-span-12 sm:col-span-6 xl:col-span-3 intro-y&quot;]/div[@class=&quot;report-box zoom-in&quot;]/div[@class=&quot;box p-5&quot;]/div[@class=&quot;text-3xl font-medium leading-8 mt-6&quot;]</value>
+      <webElementGuid>fb757896-d2a6-4717-a790-a2b585b218a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backoffice Users'])[1]/following::div[4]</value>
+      <webElementGuid>635c35b2-afc9-4e5b-831a-010a5889dc6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctors'])[1]/following::div[8]</value>
+      <webElementGuid>84ffafeb-a4f8-4957-88a9-51e79e1caaf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ai Care Users'])[1]/preceding::div[1]</value>
+      <webElementGuid>056f1ce8-7fdf-4d6a-ad0a-318d4429467a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Symptom Checker Analysis'])[1]/preceding::div[2]</value>
+      <webElementGuid>521eae51-03b2-40d3-9d03-13b5012d9a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2828']/parent::*</value>
+      <webElementGuid>70e95350-701b-4680-8e22-2d303a0682a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div/div[2]</value>
+      <webElementGuid>b2f1926d-8b68-4392-86b1-f89b733f1b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                            2828
+                        ' or . = '
+                            2828
+                        ')]</value>
+      <webElementGuid>21fda7ef-a708-4506-8d5c-d571a0661347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

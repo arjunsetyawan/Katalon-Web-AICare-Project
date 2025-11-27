@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_next</name>
+   <tag></tag>
+   <elementGuidId>6251a9dc-c9f7-412a-9599-11fb90ad0f79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next »'])[1]/following::a[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Next &amp;raquo;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>226062a6-1d1a-4516-a9b6-88869dbde800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://backoffice-stg.digitalsekuriti.id/doctor-review?value=&amp;specialty=&amp;page=3</value>
+      <webElementGuid>674b34e1-13b1-4a9f-ba53-73bb23652619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>c05d1cba-b138-42e8-bb56-3d1bef13c3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-flex items-center px-2 py-2 -ml-px text-sm font-medium leading-5 transition bg-white  rounded-full hover:bg-blue-100 hover:text-gray-400 focus:z-10 focus:outline-none focus:border-primary-300 focus:ring focus:ring-primary-300 focus:ring-opacity-30</value>
+      <webElementGuid>c4a2e477-865b-4106-a3ec-196ff31e4f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next &amp;raquo;</value>
+      <webElementGuid>054e6f5c-d623-4375-9b1a-66a79e574cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;overflow-x-auto scrollbar-hidden&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nav[@class=&quot;flex items-center justify-between p-4 border-t select-none border-secondary-200 sm:px-6&quot;]/div[@class=&quot;flex-col hidden lg:flex-row sm:flex-1 sm:flex sm:items-center sm:justify-between&quot;]/div[2]/span[@class=&quot;relative z-0 inline-flex mt-2 lg:mt-0&quot;]/a[@class=&quot;relative inline-flex items-center px-2 py-2 -ml-px text-sm font-medium leading-5 transition bg-white  rounded-full hover:bg-blue-100 hover:text-gray-400 focus:z-10 focus:outline-none focus:border-primary-300 focus:ring focus:ring-primary-300 focus:ring-opacity-30&quot;]</value>
+      <webElementGuid>cc73c511-813d-466c-9c6c-77613b2e3b2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next »'])[1]/following::a[6]</value>
+      <webElementGuid>5bfdecc2-9289-492b-905a-98d6ea6dc019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='« Previous'])[1]/following::a[7]</value>
+      <webElementGuid>0c701acc-098a-4887-a512-1006a1b03374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://backoffice-stg.digitalsekuriti.id/doctor-review?value=&amp;specialty=&amp;page=3')])[3]</value>
+      <webElementGuid>7a2dd9d4-0ee3-4881-a8b7-82a783aeb4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>9155f956-dd0e-4f11-b06b-7fa44397314c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://backoffice-stg.digitalsekuriti.id/doctor-review?value=&amp;specialty=&amp;page=3']</value>
+      <webElementGuid>c16c2287-c9be-4ba3-84c6-67a734c4aaa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

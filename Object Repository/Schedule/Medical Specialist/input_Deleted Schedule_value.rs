@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Deleted Schedule_value</name>
+   <tag></tag>
+   <elementGuidId>ec29c450-f09a-454f-9f91-2cb5c8bde848</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='value']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;value&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search for Doctor's Name Here&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bc48facf-2abd-4b4e-9424-06ac1fd37dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>29492fc2-2e85-42cf-a84b-3cd25bbf1a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control w-[368px]</value>
+      <webElementGuid>9eb7d67d-e166-4db6-9277-e65305618699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>value</value>
+      <webElementGuid>e4826d31-fbe8-4b47-adce-06aca8e4f24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search for Doctor's Name Here</value>
+      <webElementGuid>83d982c4-25f2-449f-8227-6ba1aec14f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;flex flex-col sm:flex-row sm:items-end xl:items-start&quot;]/form[@class=&quot;xl:flex sm:mr-auto&quot;]/div[@class=&quot;input-group items-center&quot;]/input[@class=&quot;form-control w-[368px]&quot;]</value>
+      <webElementGuid>4f337159-4412-446b-9a05-557d23ea9aa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='value']</value>
+      <webElementGuid>7b5ae599-140c-42d7-b594-b215bddc37b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>f86c32c5-406e-466a-baf7-c4334d5190c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'value' and @placeholder = concat(&quot;Search for Doctor&quot; , &quot;'&quot; , &quot;s Name Here&quot;)]</value>
+      <webElementGuid>807fa275-f08e-45a1-befb-2184993334ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

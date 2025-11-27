@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 - Add New Medicine Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08c20073-f0fb-4b3a-b488-ee8a89868697</testCaseGuid>
+</TestCaseEntity>

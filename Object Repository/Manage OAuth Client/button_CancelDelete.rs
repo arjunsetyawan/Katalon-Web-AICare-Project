@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CancelDelete</name>
+   <tag></tag>
+   <elementGuidId>79df55b2-3047-4117-8edd-87fe0e98e9db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cancel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5185580b-4952-4cdf-942d-e4b036116f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>dabadbd5-7bf2-48f0-b0a6-9c10a86596b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0db02e25-eb0b-476d-b9e9-ad2a630bdc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-500 bg-white hover:bg-gray-100 focus:ring-4 focus:outline-none
+                            focus:ring-gray-200 rounded-lg border border-gray-200 text-sm
+                            font-medium px-5 py-2.5 hover:text-gray-900 focus:z-10</value>
+      <webElementGuid>6b21fb5a-1841-4a46-a9a8-c22bbdd40952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Cancel
+                    </value>
+      <webElementGuid>7b94eaa5-3568-482e-942e-477e81c79e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delete-691ec225921b2b3d75029a13-modal&quot;)/div[@class=&quot;modal-dialog modal-md&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;p-6 text-center&quot;]/form[1]/button[@class=&quot;text-gray-500 bg-white hover:bg-gray-100 focus:ring-4 focus:outline-none
+                            focus:ring-gray-200 rounded-lg border border-gray-200 text-sm
+                            font-medium px-5 py-2.5 hover:text-gray-900 focus:z-10&quot;]</value>
+      <webElementGuid>50238883-1877-469f-9269-dc04cc9632d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>83aff6a6-3e84-4893-946f-c49f4638ec32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='delete-691ec225921b2b3d75029a13-modal']/div/div/div/form/button</value>
+      <webElementGuid>b2ed113f-4d14-4347-84e9-9200ce9b3945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete client test?'])[1]/following::button[1]</value>
+      <webElementGuid>6ead1229-8d2f-4a36-871b-89567d294bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/preceding::button[1]</value>
+      <webElementGuid>42bac027-a483-48fb-bb7d-d3799d9f7e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/form/button</value>
+      <webElementGuid>c82e8da6-afd1-41a8-8f20-fe9a5fc47369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                        Cancel
+                    ' or . = '
+                        Cancel
+                    ')]</value>
+      <webElementGuid>a70e8bdf-6524-43a6-bd0d-ff5aa1a2f9b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

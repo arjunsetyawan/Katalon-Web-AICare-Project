@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_next</name>
+   <tag></tag>
+   <elementGuidId>43c38ead-2ec6-4a8c-b5f1-03940c93f5e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next »'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;&amp;laquo; Previous&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd450780-8d64-41c5-9b83-a1f5ca085327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://backoffice-stg.digitalsekuriti.id/history-symptom-checker?page=1</value>
+      <webElementGuid>cfc6e0bd-835c-4d99-be51-03c59b9d5be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>prev</value>
+      <webElementGuid>6ad7a470-52a8-4d22-bf1c-d1e7bcf6db23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-flex items-center px-2 py-2 text-sm font-medium leading-5 transition bg-white rounded-full hover:bg-blue-100 hover:text-gray-400 focus:z-10 focus:outline-none focus:border-primary-300 focus:ring focus:ring-primary-300 focus:ring-opacity-30</value>
+      <webElementGuid>bf15c27c-2b31-4576-be46-c94433e1634f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>&amp;laquo; Previous</value>
+      <webElementGuid>50a1617a-9fe0-4f78-ba91-0c8176baf4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;overflow-x-auto scrollbar-hidden&quot;]/nav[@class=&quot;flex items-center justify-between p-4 border-t select-none border-secondary-200 sm:px-6&quot;]/div[@class=&quot;flex-col hidden lg:flex-row sm:flex-1 sm:flex sm:items-center sm:justify-between&quot;]/div[2]/span[@class=&quot;relative z-0 inline-flex mt-2 lg:mt-0&quot;]/a[@class=&quot;relative inline-flex items-center px-2 py-2 text-sm font-medium leading-5 transition bg-white rounded-full hover:bg-blue-100 hover:text-gray-400 focus:z-10 focus:outline-none focus:border-primary-300 focus:ring focus:ring-primary-300 focus:ring-opacity-30&quot;]</value>
+      <webElementGuid>8773751c-ad85-4d7b-972e-3e405d287058</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next »'])[1]/following::a[1]</value>
+      <webElementGuid>6e3c4015-14f4-4536-86a1-9898b3ecbe80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='« Previous'])[1]/following::a[2]</value>
+      <webElementGuid>2113ae4c-e22f-41c0-806b-4f8c5a200c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::a[10]</value>
+      <webElementGuid>d8b39f91-901e-492a-be7f-18699ba9248f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://backoffice-stg.digitalsekuriti.id/history-symptom-checker?page=1')])[2]</value>
+      <webElementGuid>e7efd2be-6ed0-4ce9-97ac-38b00c04eeae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>a37a764b-a5e8-44b6-a3a0-19bef7828f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://backoffice-stg.digitalsekuriti.id/history-symptom-checker?page=1']</value>
+      <webElementGuid>8764c880-f3a4-4f94-994f-c8398945b816</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

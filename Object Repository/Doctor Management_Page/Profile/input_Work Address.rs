@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Work Address</name>
+   <tag></tag>
+   <elementGuidId>7bf5721e-587a-4eb5-a8ec-ca659a1eccca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='work_address'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-690afa405f874c06f2063f53 > div.px-5 > div.grid.grid-cols-6.gap-4.mt-2 > div.col-span-5 > input[name=&quot;work_address&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form >> internal:has-text=&quot;Edit Juno Test's Data English Indonesian Personal Details Identification Photo *&quot;i >> input[name=&quot;work_address&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1dcd6e90-c409-4959-b209-88a61668900d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1b3dd30c-1dc5-4878-adf7-cba438b125f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>work_address</value>
+      <webElementGuid>cd9c0c16-44be-4740-bbe1-027a308daeaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>98c98078-7c34-4a8b-99fa-1fc2b4041dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Jalan Rinjani Barat 1 No 15 Mojosongo</value>
+      <webElementGuid>b66fb84f-3ace-45f0-9de3-b563f1cd1c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-690afa405f874c06f2063f53&quot;)/div[@class=&quot;px-5&quot;]/div[@class=&quot;grid grid-cols-6 gap-4 mt-2&quot;]/div[@class=&quot;col-span-5&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>5ce05cf6-1c1c-4108-ad29-5a3e90e386c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='work_address'])[4]</value>
+      <webElementGuid>819c16b5-9dfb-43e0-8fba-cb0969330645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-690afa405f874c06f2063f53']/div[2]/div[7]/div/input</value>
+      <webElementGuid>dbb24926-3b8b-46df-a237-99b49195390d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/form/div[2]/div[7]/div/input</value>
+      <webElementGuid>7dcbfbf2-c267-427e-9b21-38e5bc57c410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'work_address']</value>
+      <webElementGuid>0fe31633-281d-4436-bbac-a4a075bdbccb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

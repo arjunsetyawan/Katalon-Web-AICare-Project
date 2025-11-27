@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 003 - Edit Medicine Categories</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81df40b0-49dd-4f0a-adca-d6c53b3a8bdd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Sorting, Export, Paginasi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4c769a0-5a3a-4efc-bd3b-954e3028e9e4</testCaseGuid>
+</TestCaseEntity>

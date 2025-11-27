@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rating  Review</name>
+   <tag></tag>
+   <elementGuidId>926a0ffa-ffa6-4b6f-8a9d-4a3a48437e79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='toggleIcon']/div[2])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Rating &amp; Review&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bff35865-4032-4499-b16d-c7085c851c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>side-menu__title</value>
+      <webElementGuid>5f407586-d845-4998-b9af-01f8271e8ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rating &amp; Review </value>
+      <webElementGuid>78186473-22bb-4fb2-b896-f118158eb0ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/nav[@class=&quot;side-nav&quot;]/ul[1]/li[3]/ul[@class=&quot;side-menu__sub-open&quot;]/li[@class=&quot;ml-5&quot;]/a[@id=&quot;toggleIcon&quot;]/div[@class=&quot;side-menu__title&quot;]</value>
+      <webElementGuid>4294c5f4-474f-4cea-b3d4-facff596d789</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='toggleIcon']/div[2])[2]</value>
+      <webElementGuid>000483f3-d531-4d03-adfd-4b9c0c38ec28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Control'])[2]/preceding::div[2]</value>
+      <webElementGuid>6a97ed3d-6ce1-4604-add9-21270d3eaa50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[2]/preceding::div[4]</value>
+      <webElementGuid>c2618820-35b8-4e63-b795-823980699c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[3]/ul/li[3]/a/div[2]</value>
+      <webElementGuid>8e509137-7c1d-4933-a9c7-76d07aa6b525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Rating &amp; Review ' or . = ' Rating &amp; Review ')]</value>
+      <webElementGuid>f92700b3-0adf-4438-9a4c-bb04be61eb29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

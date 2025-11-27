@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Sorting and Detail OAuth Client</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8694be1f-0a4b-4ef3-a040-ceb768760ac7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 - Add New Medicine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a9febd5-de59-4f9d-81f0-85653d0f67c5</testCaseGuid>
+</TestCaseEntity>

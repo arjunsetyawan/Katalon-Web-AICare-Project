@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 004 - Delete Backoffice User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4c6cd5c-6e44-4334-988f-dc68bde7c886</testCaseGuid>
+</TestCaseEntity>

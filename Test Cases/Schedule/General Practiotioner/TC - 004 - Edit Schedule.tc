@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 004 - Edit Schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ec6f61a-61c4-467a-8993-07d23649500c</testCaseGuid>
+</TestCaseEntity>

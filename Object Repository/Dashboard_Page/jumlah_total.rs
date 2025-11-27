@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jumlah_total</name>
+   <tag></tag>
+   <elementGuidId>2f2ea37d-6bd3-49b9-8dab-e12554abf3cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Questions'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;5327 Total Questions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b30dd52-713e-4676-8f3a-90fd1c64a974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-3xl font-medium leading-8 mt-6</value>
+      <webElementGuid>c37194da-e40b-4e32-9704-12e976be0465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                5327
+                            </value>
+      <webElementGuid>be16f044-3224-4e2f-876a-7da018146213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;col-span-12 2xl:col-span-9&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;col-span-12 mt-8&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 mt-5&quot;]/a[@class=&quot;col-span-12 sm:col-span-6 xl:col-span-3 intro-y&quot;]/div[@class=&quot;report-box zoom-in&quot;]/div[@class=&quot;box p-5&quot;]/div[@class=&quot;text-3xl font-medium leading-8 mt-6&quot;]</value>
+      <webElementGuid>4deaa579-aa5e-4783-8f91-04bd42ffb875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Questions'])[1]/following::div[3]</value>
+      <webElementGuid>dc8fc8cf-3476-4fb3-8f89-18d9dcde2a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelled Questions'])[1]/following::div[7]</value>
+      <webElementGuid>371b60a8-77ae-46c5-bacc-2e102079f3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Questions'])[1]/preceding::div[1]</value>
+      <webElementGuid>d465de9c-8f16-4cb6-94b3-dd3119ff2a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5327']/parent::*</value>
+      <webElementGuid>c45d20db-5c92-4f48-80e8-8b2b74333b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div/div/div</value>
+      <webElementGuid>4c53b498-75d3-43a2-bd5c-8f99fc2c1ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                5327
+                            ' or . = '
+                                5327
+                            ')]</value>
+      <webElementGuid>70d1c1a8-6c4e-4825-a897-0975c743b6fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

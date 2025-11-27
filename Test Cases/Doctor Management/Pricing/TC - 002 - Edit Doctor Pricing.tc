@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 - Edit Doctor Pricing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17e28471-5a60-482d-ab54-735b66169363</testCaseGuid>
+</TestCaseEntity>

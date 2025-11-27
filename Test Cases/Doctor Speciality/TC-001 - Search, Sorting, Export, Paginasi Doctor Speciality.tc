@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001 - Search, Sorting, Export, Paginasi Doctor Speciality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6605f100-1221-4d74-a280-eca580e7c5b8</testCaseGuid>
+</TestCaseEntity>

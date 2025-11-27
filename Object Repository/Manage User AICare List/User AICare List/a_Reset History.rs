@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reset History</name>
+   <tag></tag>
+   <elementGuidId>86e5e19c-2b9b-4fc8-a642-615548f34a72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Reset')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Reset&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>12e766f6-92a1-42d9-ab32-65d73b2b4305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://backoffice-stg.digitalsekuriti.id/user-aicare/history/68ff26a6b29ff7ab9e9dbf51</value>
+      <webElementGuid>028a81ed-3f12-450a-8802-fcc40aa14aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary w-full sm:w-16 mt-2 sm:mt-0 sm:ml-1</value>
+      <webElementGuid>fdc10dd0-0e1e-498d-b4bc-75697ef302a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Reset
+                    </value>
+      <webElementGuid>4dda0109-93d3-406d-b388-7a0e598d5739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-5&quot;]/div[@class=&quot;flex flex-col sm:flex-row sm:items-end xl:items-start&quot;]/form[@class=&quot;xl:flex sm:mr-auto&quot;]/div[@class=&quot;mt-2 xl:mt-0&quot;]/a[@class=&quot;btn btn-secondary w-full sm:w-16 mt-2 sm:mt-0 sm:ml-1&quot;]</value>
+      <webElementGuid>429775a8-29ae-43be-9511-3f3d2ade0f23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reset')]</value>
+      <webElementGuid>3944a6f5-51af-42aa-9a9d-37df0bee75f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::a[1]</value>
+      <webElementGuid>857e5bb7-f92e-4e62-8957-b94d3ff3df23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lab Interpretation'])[2]/following::a[1]</value>
+      <webElementGuid>a6179bcb-1238-48c9-a684-c4c92db9a251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[1]</value>
+      <webElementGuid>683785e2-0b93-4b77-b35e-bde1b2f1022b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feature'])[1]/preceding::a[1]</value>
+      <webElementGuid>c5868d02-8239-4012-b480-06062f21f3b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset']/parent::*</value>
+      <webElementGuid>5d1e842c-1ef7-4e66-b0bc-cb1e2370d2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://backoffice-stg.digitalsekuriti.id/user-aicare/history/68ff26a6b29ff7ab9e9dbf51')]</value>
+      <webElementGuid>eec81dc7-324a-478e-a281-796ff3fb30e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>588c4f15-b126-469c-867f-66d7ba6ad06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://backoffice-stg.digitalsekuriti.id/user-aicare/history/68ff26a6b29ff7ab9e9dbf51' and (text() = '
+                        Reset
+                    ' or . = '
+                        Reset
+                    ')]</value>
+      <webElementGuid>0bec0498-1959-4cb2-ab05-5c18aa7cc50a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

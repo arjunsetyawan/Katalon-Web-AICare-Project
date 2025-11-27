@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 005 - Delete Health Facility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d6a5001-19f3-449f-9d7f-469b740eb62c</testCaseGuid>
+</TestCaseEntity>

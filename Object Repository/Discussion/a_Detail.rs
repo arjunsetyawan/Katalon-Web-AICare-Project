@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Detail</name>
+   <tag></tag>
+   <elementGuidId>459cfab7-12c0-461c-a111-169b6e0449c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.flex.items-center.text-primary.mr-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 80a14ae3-8769-449e-99ef-70e7d62f722f mata 68f64b34efd3315225f0ab54 indra wibawa 65aa232118c19dc79a053a83 20 October 2025 21:48 22 October 2025 11:54 Yes dr. Risadayanti Mata Published Detail Spam Delete&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a9c745a5-793c-411e-bdd3-f2a52ff0683e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://backoffice-stg.digitalsekuriti.id/discussions/80a14ae3-8769-449e-99ef-70e7d62f722f</value>
+      <webElementGuid>3bf21182-fa0a-4b13-b81d-dc90f7e11ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center text-primary mr-5</value>
+      <webElementGuid>906bf934-1f71-4889-bf5d-93f8669b1870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Detail
+                                    </value>
+      <webElementGuid>7824900a-12b3-4054-943c-a3e8442a8e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-3 mt-5&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;table my-8 sortable&quot;]/tbody[1]/tr[1]/td[13]/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/a[@class=&quot;flex items-center text-primary mr-5&quot;]</value>
+      <webElementGuid>88b14876-b2a6-48e3-81b2-d80ff7e9a2b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[1]/following::a[1]</value>
+      <webElementGuid>e9634107-8d49-4fcc-af15-b0948641ccae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mata'])[1]/following::a[1]</value>
+      <webElementGuid>d5ace9be-c8e6-4682-9318-78ddbcf0431d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to flag this question as a spam?'])[1]/preceding::a[2]</value>
+      <webElementGuid>fa4841d7-fa5e-4aa5-98b0-9569789b1b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detail']/parent::*</value>
+      <webElementGuid>15f436e3-fe81-4a34-941d-340ee21efe5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://backoffice-stg.digitalsekuriti.id/discussions/80a14ae3-8769-449e-99ef-70e7d62f722f')]</value>
+      <webElementGuid>2a1801f6-87c0-46d6-a076-63cb91194969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[13]/div/div/a</value>
+      <webElementGuid>d0a626c6-b3fa-4410-86fa-16c979e6d504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://backoffice-stg.digitalsekuriti.id/discussions/80a14ae3-8769-449e-99ef-70e7d62f722f' and (text() = '
+                                        Detail
+                                    ' or . = '
+                                        Detail
+                                    ')]</value>
+      <webElementGuid>3e97589f-02a5-4c38-a641-a5e8f1a7a019</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

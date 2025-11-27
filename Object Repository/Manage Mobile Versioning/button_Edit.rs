@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>f93c8ff5-8522-4d47-b677-2ac063ad2816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='https://apps.apple.com/id/app/ai-care/id1545122059'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex.items-center.text-success.mr-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 v1.27.3 17 January 2024 Playstore: v2.0.3 Appstore: v2.0.0 Playstore: v3.0.4 Appstore: v3.0.4 Show Edit Delete&quot;i] >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>098653cd-6c0a-43e7-a5d4-29525cf8282f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center text-success mr-3</value>
+      <webElementGuid>5814f5ad-0dab-4d20-ac1f-7083a52462e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>588232b3-53e2-464c-b007-914e622da568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-target</name>
+      <type>Main</type>
+      <value>#edit-6551a263d77e982fed007973-modal</value>
+      <webElementGuid>44212052-f608-42f4-90ee-5d5af579017a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Edit
+                                    </value>
+      <webElementGuid>af67b616-8a7b-4a4d-81c0-b4da3c2724bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;intro-y box p-5 mt-5&quot;]/div[@class=&quot;overflow-x-auto scrollbar-hidden&quot;]/table[@class=&quot;table sortable&quot;]/tbody[1]/tr[1]/td[6]/div[@class=&quot;flex justify-center&quot;]/button[@class=&quot;flex items-center text-success mr-3&quot;]</value>
+      <webElementGuid>305fd6b1-8e7f-41f8-aa3c-5cee106b04b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://apps.apple.com/id/app/ai-care/id1545122059'])[1]/following::button[1]</value>
+      <webElementGuid>d6c386b4-c194-445b-9adb-764a1b4f89e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v3.0.4'])[2]/following::button[1]</value>
+      <webElementGuid>bc07c463-e80f-4e86-b770-411d36b389e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Mobile Version Data'])[1]/preceding::button[1]</value>
+      <webElementGuid>8f69a383-cdd0-4562-9920-d36d223ee6fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backend Version'])[4]/preceding::button[1]</value>
+      <webElementGuid>2aa96a6e-deb3-4103-8598-fd98c054d7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>3b5fd5f3-6ecc-453d-a752-aa74853b4bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/button[2]</value>
+      <webElementGuid>9b4575a2-ef8b-4a0b-b58c-d3f086f2200a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                                            Edit
+                                    ' or . = '
+                                            Edit
+                                    ')]</value>
+      <webElementGuid>78629fa5-75ac-4bb0-bf10-6e253c1979cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

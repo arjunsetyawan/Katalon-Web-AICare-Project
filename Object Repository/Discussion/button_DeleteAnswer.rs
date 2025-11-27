@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_DeleteAnswer</name>
+   <tag></tag>
+   <elementGuidId>2583dd25-a5e7-478a-a234-5144177d9d74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex.btn.btn-outline-danger.items-center.text-danger.mt-5.mr-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsumsi makanan bergizi seimbang dan cukup cairan.'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Delete&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2d802f93-988f-4131-a246-0d6b042b92f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex btn btn-outline-danger items-center text-danger mt-5 mr-5</value>
+      <webElementGuid>6a37f68c-655d-444d-98ea-6f9c66db678f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>016ead77-6b3f-47ca-a1a7-b85b36032cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-target</name>
+      <type>Main</type>
+      <value>#delete-0871a954-cb8d-4fe4-8a00-f973f7e4c244-482-modal</value>
+      <webElementGuid>cc78a772-7948-4944-b2ed-bdd38f657891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Delete
+                            </value>
+      <webElementGuid>8b9fd4b0-bb13-4016-a198-feced458ded3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;col-span-12 lg:col-span-8 2xl:col-span-9&quot;]/div[@class=&quot;intro-y box lg:mt-5&quot;]/div[@class=&quot;p-5&quot;]/div[@class=&quot;w-full mt-5 pl-3&quot;]/div[@class=&quot;flex justify-end&quot;]/button[@class=&quot;flex btn btn-outline-danger items-center text-danger mt-5 mr-5&quot;]</value>
+      <webElementGuid>24ba1c1b-5fd1-46bd-b4d9-235d0287574c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsumsi makanan bergizi seimbang dan cukup cairan.'])[1]/following::button[1]</value>
+      <webElementGuid>b7b827d0-f4d2-4636-924b-2d0495ce4dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menggunakan pakaian longgar, hindari menggunakan bra atau baju yang ketat pada area tersebut.'])[1]/following::button[1]</value>
+      <webElementGuid>159b27f6-5c0c-44a5-87f0-ce38f23fc149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete this answer?'])[1]/preceding::button[1]</value>
+      <webElementGuid>29d35efe-fa78-4435-8e0b-389a92c565d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>1daa652e-87ad-4ad2-ba3e-69d7f55a7178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>27948d7a-0d67-4675-8f61-06963495f001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>d04a3388-7a1a-473b-8363-5ed9bcfd646c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                                Delete
+                            ' or . = '
+                                Delete
+                            ')]</value>
+      <webElementGuid>8ed493c5-ced7-40a9-a03c-caac6d92a5cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

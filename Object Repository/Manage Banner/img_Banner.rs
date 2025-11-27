@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Banner</name>
+   <tag></tag>
+   <elementGuidId>1c21701b-148b-413c-9e92-718fc5050830</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#show-691d779ccadf232d030c7f92-modal > div.modal-dialog.modal-lg > div.modal-content > div.p-5 > img.mx-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='show-691d779ccadf232d030c7f92-modal']/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Banner test&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6adf7a04-6a12-4006-92b6-a8e1ecd48515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s3.callink.id/aicare/banner/img_691d779bc1a0b.png</value>
+      <webElementGuid>ebcb669b-b031-42ff-a9ba-4c620af6a147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-auto</value>
+      <webElementGuid>8075beb3-af9e-4070-883d-4515ffccee5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Banner test</value>
+      <webElementGuid>07b70fdf-63e5-484a-ac8d-26b6176068ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;show-691d779ccadf232d030c7f92-modal&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;p-5&quot;]/img[@class=&quot;mx-auto&quot;]</value>
+      <webElementGuid>865b4cbd-dedd-4ea0-b297-37d6604fa800</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='show-691d779ccadf232d030c7f92-modal']/div/div/div/img</value>
+      <webElementGuid>0ba35710-fc8c-426c-b449-61deaaf9ddfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Banner test'])[2]</value>
+      <webElementGuid>66b0646e-7231-42ad-b711-247c00dfa5bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/img</value>
+      <webElementGuid>59de1f37-ac93-400f-83de-7b10b09e4077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://s3.callink.id/aicare/banner/img_691d779bc1a0b.png' and @alt = 'Banner test']</value>
+      <webElementGuid>364a32d9-0b3f-4234-abeb-91abcc41420f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

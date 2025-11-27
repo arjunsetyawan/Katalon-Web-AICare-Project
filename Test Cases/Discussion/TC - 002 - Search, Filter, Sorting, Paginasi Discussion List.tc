@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 - Search, Filter, Sorting, Paginasi Discussion List</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdf24c4a-95ca-47f6-a6c3-d1d8ddb8c962</testCaseGuid>
+</TestCaseEntity>

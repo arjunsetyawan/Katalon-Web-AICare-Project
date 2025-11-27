@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Filter, Sorting, Paginasi Health Facility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dff0ae15-1061-475d-9507-82156797ddf4</testCaseGuid>
+</TestCaseEntity>

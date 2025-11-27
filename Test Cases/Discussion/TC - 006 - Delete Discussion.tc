@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 006 - Delete Discussion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>19b3f899-2ea6-4817-af4a-b11b08e69b0e</testCaseGuid>
+</TestCaseEntity>

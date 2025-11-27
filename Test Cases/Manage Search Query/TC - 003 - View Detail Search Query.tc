@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 003 - View Detail Search Query</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d568404-1896-4445-b19c-7fb9ea343f28</testCaseGuid>
+</TestCaseEntity>

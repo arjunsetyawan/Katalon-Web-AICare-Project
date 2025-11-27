@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 003 - Show Detail Released Management</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c3cc7be-acd2-4d08-a517-ad5d7bdbfd11</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_upload</name>
+   <tag></tag>
+   <elementGuidId>0379e884-1160-4147-833b-2f8f1bd6595c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='icon'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-3 > input[name=&quot;icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#add-doctor-specialty-modal input[name=&quot;icon&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1587551c-81fd-466c-adac-32c91c3f586f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>7839bd7e-1555-4e05-8740-425dfcb16341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>a1993168-34b3-4277-8f04-b64d34584d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control
+                                w-full
+                                px-3
+                                py-1.5
+                                border border-solid border-gray-300
+                                m-0
+                                focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none</value>
+      <webElementGuid>46907f0a-4ddb-4773-a00c-302530a376bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>image/jpg, image/png, image/jpeg</value>
+      <webElementGuid>3aa24b5a-5ed5-4ad7-b718-19c966bcd539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-doctor-specialty-modal&quot;)/div[@class=&quot;modal-dialog modal-xs&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;p-5&quot;]/form[1]/div[@class=&quot;mt-3&quot;]/input[@class=&quot;form-control
+                                w-full
+                                px-3
+                                py-1.5
+                                border border-solid border-gray-300
+                                m-0
+                                focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none&quot;]</value>
+      <webElementGuid>7dd8b447-65c4-4a4c-ba06-b50e03428b58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='icon'])[11]</value>
+      <webElementGuid>1bb69d7a-28a5-4790-97aa-bef5860fcd50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-doctor-specialty-modal']/div/div/div[2]/form/div[3]/input</value>
+      <webElementGuid>ac9b11f3-e9c8-43e2-9eff-f9e0b25827a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>7145227a-8c0b-44d2-b068-1ab6411bc28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file' and @name = 'icon']</value>
+      <webElementGuid>d7ac7ec1-daeb-4b7f-8eee-6412ce769eb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

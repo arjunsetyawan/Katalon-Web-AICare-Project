@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 003 - View Detail Rating and Review</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5ff7e6c-4c95-4d93-bb63-441b4983fd04</testCaseGuid>
+</TestCaseEntity>

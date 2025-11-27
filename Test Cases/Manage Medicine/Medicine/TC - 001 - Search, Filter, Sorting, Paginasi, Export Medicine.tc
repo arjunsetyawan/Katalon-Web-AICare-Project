@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Filter, Sorting, Paginasi, Export Medicine</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7892cc2-b213-4659-9d94-9918fe3e4e9b</testCaseGuid>
+</TestCaseEntity>

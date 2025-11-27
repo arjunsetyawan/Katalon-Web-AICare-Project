@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 005 - Delete Banner</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>590482e2-41e3-4a86-9371-b1c3210bdf14</testCaseGuid>
+</TestCaseEntity>

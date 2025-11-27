@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-002 - Add new Speciality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b68c8479-192b-4a19-8347-1c2e6f9785ad</testCaseGuid>
+</TestCaseEntity>

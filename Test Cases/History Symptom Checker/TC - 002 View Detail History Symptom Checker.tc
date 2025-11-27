@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 View Detail History Symptom Checker</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cbc956c-33eb-4337-8a23-851c3b99ff83</testCaseGuid>
+</TestCaseEntity>

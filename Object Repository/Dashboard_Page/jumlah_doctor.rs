@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jumlah_doctor</name>
+   <tag></tag>
+   <elementGuidId>a75dc548-0a94-4be5-91fa-ab8280ef2d8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='General Report'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-3xl.font-medium.leading-8.mt-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;42 Doctors&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28630ca0-9170-41ff-8030-af04040f2712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-3xl font-medium leading-8 mt-6</value>
+      <webElementGuid>9a815f6d-9d52-4426-95af-b39056f10424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            42
+                        </value>
+      <webElementGuid>89971aa6-3b37-4686-a407-800bc656f062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;col-span-12 2xl:col-span-9&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;col-span-12 mt-8&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 mt-5&quot;]/a[@class=&quot;col-span-12 sm:col-span-6 xl:col-span-3 intro-y&quot;]/div[@class=&quot;report-box zoom-in&quot;]/div[@class=&quot;box p-5&quot;]/div[@class=&quot;text-3xl font-medium leading-8 mt-6&quot;]</value>
+      <webElementGuid>8b8a5464-70c6-48ff-b8b9-89dd066d6a13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Report'])[1]/following::div[5]</value>
+      <webElementGuid>18da147a-ec04-4710-b73f-a5fb5224e9e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctors'])[1]/preceding::div[1]</value>
+      <webElementGuid>6e8ad26b-c619-4a16-a704-6460b4659dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backoffice Users'])[1]/preceding::div[3]</value>
+      <webElementGuid>c417f040-9833-4385-8f15-c91790e541b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='42']/parent::*</value>
+      <webElementGuid>c95586f6-3bde-466f-aa18-d293c44e2796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div[2]</value>
+      <webElementGuid>85e361cd-941b-4900-8e2c-5c38dccb2784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                            42
+                        ' or . = '
+                            42
+                        ')]</value>
+      <webElementGuid>39dd9352-b3c6-4dfc-bead-f812e84ad3b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

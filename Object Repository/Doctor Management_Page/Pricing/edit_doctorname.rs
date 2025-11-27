@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit_doctorname</name>
+   <tag></tag>
+   <elementGuidId>3a2bcde5-f221-4211-961f-13ef2c67bfb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tomselect-3-ts-control']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tomselect-3-ts-control > div.item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#tomselect-3-ts-control >> internal:text=&quot;Dr Semakin di Devan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>486c67c0-122e-43a0-ad9e-f2422c9fcf50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Dr Semakin di Devan</value>
+      <webElementGuid>620fca7a-9aec-4dc2-8ab0-e7b36dd3dec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>a86a730b-e138-4304-b9b6-a2f8d43537b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr Semakin di Devan</value>
+      <webElementGuid>a0a462fd-d805-4496-bc3f-81f229989246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tomselect-3-ts-control&quot;)/div[@class=&quot;item&quot;]</value>
+      <webElementGuid>e7c56db8-b16d-4258-b51d-a18c6779d2a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tomselect-3-ts-control']/div</value>
+      <webElementGuid>5eb8eefb-65c9-4d3a-8cf7-3c8861014fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokter Umum'])[22]/following::div[8]</value>
+      <webElementGuid>3ea8afeb-a742-4e2a-9116-fd3ae99a21cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[11]/preceding::div[4]</value>
+      <webElementGuid>392675eb-929f-48cd-9eb9-6377576a7d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat'])[10]/preceding::div[6]</value>
+      <webElementGuid>c997a1d3-fe9f-4fbf-85dd-94058c7d7c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/form/div[2]/div[2]/div/div</value>
+      <webElementGuid>8d36af1e-6a72-4b01-8ba2-39bb0a595012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dr Semakin di Devan' or . = 'Dr Semakin di Devan')]</value>
+      <webElementGuid>f00b5944-0ad3-4ac5-8ffb-1f985c1689e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

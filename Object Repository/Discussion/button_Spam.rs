@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Spam</name>
+   <tag></tag>
+   <elementGuidId>235d3f4d-62b5-418c-90e9-43c7e05bc1f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex.items-center.text-warning.mr-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 0871a954-cb8d-4fe4-8a00-f973f7e4c244 Benjolan nyeri di sekitar payudara 68b08befcb4cd4da4ca401a8 A B 690afa405f874c06f2063f53 29 August 2025 16:03 21 November 2025 15:02 Yes dr Juno Test Tumor &amp; Kanker Published Detail Spam Delete&quot;i] >> internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f9159ff-da16-4bcb-9574-729e867d9d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center text-warning mr-5</value>
+      <webElementGuid>bcfaa0d2-f284-4473-9fe3-29e1876d839c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>60bbf252-8823-426d-9a46-7868d767de26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tw-target</name>
+      <type>Main</type>
+      <value>#flag-0871a954-cb8d-4fe4-8a00-f973f7e4c244-modal</value>
+      <webElementGuid>3dafb4d4-17ca-418a-8997-2267da439453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Spam
+                                        </value>
+      <webElementGuid>c201861d-f2be-4746-9c1c-88ede6e2b29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;py-5 md:py-0&quot;]/div[@class=&quot;flex overflow-hidden&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;intro-y box p-3 mt-5&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;table my-8 sortable&quot;]/tbody[1]/tr[1]/td[13]/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/button[@class=&quot;flex items-center text-warning mr-5&quot;]</value>
+      <webElementGuid>2f8f5da5-9322-41ef-bf3e-d7c4b2805503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[1]/following::button[1]</value>
+      <webElementGuid>0b8bf303-8337-4653-b802-4f68afa4735b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to flag this question as a spam?'])[1]/preceding::button[1]</value>
+      <webElementGuid>b502ac7d-f4b7-4249-8764-899d9f3e3319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>5fa3d328-cd4c-439a-8850-8b2cb3208ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Spam']/parent::*</value>
+      <webElementGuid>79cbfbdc-d40a-4570-8921-0daaba776234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>d0b97bf0-cf48-4ea1-83b4-a76756a76bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                                            Spam
+                                        ' or . = '
+                                            Spam
+                                        ')]</value>
+      <webElementGuid>42efb0c1-a5ae-4f94-af1f-efc9174b5e17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

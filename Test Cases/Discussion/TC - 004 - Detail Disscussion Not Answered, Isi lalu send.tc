@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 004 - Detail Disscussion Not Answered, Isi lalu send</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b4abc74-001c-4ae5-8b87-bfbed1bacb15</testCaseGuid>
+</TestCaseEntity>

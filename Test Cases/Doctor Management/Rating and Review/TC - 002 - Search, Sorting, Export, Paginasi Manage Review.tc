@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 002 - Search, Sorting, Export, Paginasi Manage Review</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>217901c7-85cb-4a14-a56d-619e3f84aca8</testCaseGuid>
+</TestCaseEntity>

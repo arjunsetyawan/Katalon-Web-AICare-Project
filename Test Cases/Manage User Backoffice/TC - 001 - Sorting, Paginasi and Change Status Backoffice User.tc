@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Sorting, Paginasi and Change Status Backoffice User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8082783c-e7c6-491a-b8ae-6ebeb7c1f77f</testCaseGuid>
+</TestCaseEntity>

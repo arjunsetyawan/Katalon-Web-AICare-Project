@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit_spesiality</name>
+   <tag></tag>
+   <elementGuidId>77493ee1-54de-40b3-b6f2-493904f57ef5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tomselect-2-ts-control']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tomselect-2-ts-control > div.item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#tomselect-2-ts-control >> internal:text=&quot;Dokter Umum&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa4c5199-2ff1-4d80-a9f1-16c209d2777a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Dokter Umum</value>
+      <webElementGuid>0e158f29-675e-4944-a924-20d77ada26e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>45d9dc8d-6ff6-4f99-a112-3e841488839c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dokter Umum</value>
+      <webElementGuid>43d69320-6c49-4e73-8139-c7589fd2d6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tomselect-2-ts-control&quot;)/div[@class=&quot;item&quot;]</value>
+      <webElementGuid>062a651f-4a2a-44e7-8c5b-0735ddf7e785</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tomselect-2-ts-control']/div</value>
+      <webElementGuid>2b6e362d-349e-4ddd-a658-349b69d1b42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialty'])[11]/following::div[3]</value>
+      <webElementGuid>c2181256-7b09-467e-86a5-67198f35950a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr Semakin di Devan'])[2]/preceding::div[5]</value>
+      <webElementGuid>c22cff38-2de6-4476-b24a-3a93b7869835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/form/div/div[2]/div/div</value>
+      <webElementGuid>47a79406-17c2-4445-8d1a-ce0f120cb5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dokter Umum' or . = 'Dokter Umum')]</value>
+      <webElementGuid>2e49d64c-1066-4e42-8155-9fac986f6f08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

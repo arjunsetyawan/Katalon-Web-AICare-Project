@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 003 - Detail Discussion Answered, lalu delete Answer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a252ecba-413e-4964-a51d-0a37fca362e4</testCaseGuid>
+</TestCaseEntity>

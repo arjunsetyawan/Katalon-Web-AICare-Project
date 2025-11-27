@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 003 - Delete Doctor Pricing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dcb23e7c-8f13-48a2-a55e-e7f1b6bddda4</testCaseGuid>
+</TestCaseEntity>

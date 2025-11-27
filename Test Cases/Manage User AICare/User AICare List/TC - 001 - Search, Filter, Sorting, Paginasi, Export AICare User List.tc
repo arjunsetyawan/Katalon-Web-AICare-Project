@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Filter, Sorting, Paginasi, Export AICare User List</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b94550d-8dbf-4871-86f8-1d6f8dda6da2</testCaseGuid>
+</TestCaseEntity>

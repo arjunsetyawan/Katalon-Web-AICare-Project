@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 006 - Deleted Schedule Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c7b8cd4-3e13-4ae9-9965-25cff47f0315</testCaseGuid>
+</TestCaseEntity>

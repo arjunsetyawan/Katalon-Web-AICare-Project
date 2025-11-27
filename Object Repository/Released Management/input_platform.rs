@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_platform</name>
+   <tag></tag>
+   <elementGuidId>259919c7-a759-48d8-96c4-07c0a075d42d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ts-wrapper.cus-select.single.required.invalid > div.ts-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-version-modal']/div/div/div[2]/form/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(4) > .ts-wrapper > .ts-control</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c4f84fb-641c-4924-ac93-47f6279bd7c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ts-control</value>
+      <webElementGuid>18d43ba2-0d9e-49b9-8b0b-162e99c9532e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-version-modal&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;p-5&quot;]/form[1]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;ts-wrapper cus-select single required invalid&quot;]/div[@class=&quot;ts-control&quot;]</value>
+      <webElementGuid>65691c58-a92c-40a5-8788-e58aa221ad18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-version-modal']/div/div/div[2]/form/div[3]/div/div</value>
+      <webElementGuid>d9ce7e17-8dca-4238-9022-6d238b31aa8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[2]</value>
+      <webElementGuid>f7df19cf-40be-458a-aaf4-0bd659ac17aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android'])[7]/preceding::div[1]</value>
+      <webElementGuid>9d532ad4-092b-444a-b396-f0441b09c260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iOS'])[7]/preceding::div[2]</value>
+      <webElementGuid>e649cff1-4325-4b6b-a9aa-e77c4f5fdd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div[3]/div/div</value>
+      <webElementGuid>7f2048d7-360b-4773-beaa-2858ae77550c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

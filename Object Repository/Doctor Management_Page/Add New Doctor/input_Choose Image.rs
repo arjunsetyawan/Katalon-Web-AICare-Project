@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Choose Image</name>
+   <tag></tag>
+   <elementGuidId>a0ac6224-55a0-4f25-89f3-3fee199f9105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='imageInput'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.form-doctor > div.grid.grid-rows-3.grid-cols-4.gap-2 > div.row-span-3.col-span-1 > div.flex.flex-col > div.border.rounded-lg.text-center.self-center > div.upload-image-wrapper > #imageInput</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#add-doctor-modal #imageInput</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bdc90f17-97fc-4e69-a4d1-c46db2c7758b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>aa14e9ea-73bc-4bf5-8442-9d66c7f3af8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>imageInput</value>
+      <webElementGuid>af56f68c-f24f-4850-9c45-81ea7d76cdf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>id_photo</value>
+      <webElementGuid>035767e4-ef8e-40d5-88e8-2485ddadbdca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>image/png, image/jpg, image/jpeg</value>
+      <webElementGuid>3179bd51-fe1d-4f4d-b34d-6f3fd981aa24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-doctor-modal&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;px-5&quot;]/form[@class=&quot;form-doctor&quot;]/div[@class=&quot;grid grid-rows-3 grid-cols-4 gap-2&quot;]/div[@class=&quot;row-span-3 col-span-1&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;border rounded-lg text-center self-center&quot;]/div[@class=&quot;upload-image-wrapper&quot;]/input[@id=&quot;imageInput&quot;]</value>
+      <webElementGuid>a84d0b93-d1b3-40e5-9ba9-584b0a82dcdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='imageInput'])[11]</value>
+      <webElementGuid>4839184a-61ef-4874-b853-d15f6f81e3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-doctor-modal']/div/div/div/form/div[2]/div/div/div/div[2]/input</value>
+      <webElementGuid>80d95bd2-ff8b-4465-88a8-35a0fd50c185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/input</value>
+      <webElementGuid>f3e2da83-944d-4069-823e-4a934f8d88f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file' and @id = 'imageInput' and @name = 'id_photo']</value>
+      <webElementGuid>9567b681-57a4-4239-bc3c-8cabb2702d3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

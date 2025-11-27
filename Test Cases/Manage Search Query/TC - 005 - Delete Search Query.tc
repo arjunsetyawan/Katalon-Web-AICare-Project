@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 005 - Delete Search Query</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75cc243a-df5a-4283-8858-14150d12f9e4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_consultation media</name>
+   <tag></tag>
+   <elementGuidId>b33e1b68-dfd9-4025-bf42-47cb263f9727</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='consultationMedia']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#consultationMedia</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#consultationMedia</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>25085a19-d3d6-491d-9e16-509026b18753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>consultationMedia</value>
+      <webElementGuid>8397e196-bc8b-4bef-9a78-b89286d577b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>consultationMedia</value>
+      <webElementGuid>9df51cde-bf91-40fb-8333-0a3b1222f16b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>this.form.submit()</value>
+      <webElementGuid>8a0a0922-7518-4680-9f45-e7ef9b1f173f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>All Consultation Media</value>
+      <webElementGuid>379bddc9-ea83-4e0d-baa5-e2138ac58b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-filter ml-auto w-auto</value>
+      <webElementGuid>70725e0e-6535-4df8-a240-d66372543523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    All Consultation Media
+                    Text
+                    Video
+                </value>
+      <webElementGuid>fe3977b2-ff1b-49dc-b5d4-36792c20b2c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;consultationMedia&quot;)</value>
+      <webElementGuid>0bf97cf1-a136-4b8f-8f60-5c592565964b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='consultationMedia']</value>
+      <webElementGuid>41a68cd9-a2e9-4f3b-a5b4-3346a70b620a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[3]/following::select[3]</value>
+      <webElementGuid>d5d0dccb-4c53-448d-870e-644f91a6bbb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage User Backoffice'])[2]/following::select[3]</value>
+      <webElementGuid>24d7bf47-b557-4235-a14f-008f54e4727c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='November 20, 2025 - December 20, 2025'])[1]/preceding::select[2]</value>
+      <webElementGuid>2dbb5610-f817-4672-b33f-50c7e6253fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[3]</value>
+      <webElementGuid>11355327-6dc6-4fc7-89d1-165f785903ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>e6234692-5ebd-46fe-a48e-c5ca36a8f8ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'consultationMedia' and @id = 'consultationMedia' and @placeholder = 'All Consultation Media' and (text() = '
+                    All Consultation Media
+                    Text
+                    Video
+                ' or . = '
+                    All Consultation Media
+                    Text
+                    Video
+                ')]</value>
+      <webElementGuid>59a29396-fb85-4810-8188-7dadbcd252c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

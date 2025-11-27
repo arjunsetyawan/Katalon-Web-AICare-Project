@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 004 - Edit Health Facility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d2d3cfe-9e5c-4fe6-8013-e30fc55cd74a</testCaseGuid>
+</TestCaseEntity>

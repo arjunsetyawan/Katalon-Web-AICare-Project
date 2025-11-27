@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Full Name</name>
+   <tag></tag>
+   <elementGuidId>08d08909-290f-4202-800f-2ae6c4e447b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='fullname'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-690afa405f874c06f2063f53 > div.px-5 > div.grid.grid-rows-3.grid-cols-4.gap-2 > div.row-span-1.col-span-2 > div.flex.flex-col.gap-2 > input[name=&quot;fullname&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form >> internal:has-text=&quot;Edit Juno Test's Data English Indonesian Personal Details Identification Photo *&quot;i >> input[name=&quot;fullname&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2e3fd9be-7b54-4db2-b4ef-18c8178870a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>75737070-3aca-4c85-9ee4-bc9f2fc757f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fullname</value>
+      <webElementGuid>9a57830a-e3d4-4b37-820b-14001f348d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>52539803-204c-40f9-85fc-2e1337d26a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Juno Test</value>
+      <webElementGuid>ab5285f2-ad19-46bf-a4c2-a182d60ced1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-690afa405f874c06f2063f53&quot;)/div[@class=&quot;px-5&quot;]/div[@class=&quot;grid grid-rows-3 grid-cols-4 gap-2&quot;]/div[@class=&quot;row-span-1 col-span-2&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>4a063b98-a66a-4ddc-a1a8-725a8ddad558</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='fullname'])[4]</value>
+      <webElementGuid>1a825e03-d044-4705-91a5-3e320ddeec98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-690afa405f874c06f2063f53']/div[2]/div/div[3]/div/input</value>
+      <webElementGuid>28794cd2-6ffd-4aca-981e-a36a02f06211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/form/div[2]/div/div[3]/div/input</value>
+      <webElementGuid>7997c4cc-cdb6-4d78-819f-57f961a7ba25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'fullname']</value>
+      <webElementGuid>000dd981-0446-49a9-ad9f-cf60099bce76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

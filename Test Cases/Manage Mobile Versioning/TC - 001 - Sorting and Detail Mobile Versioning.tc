@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Sorting and Detail Mobile Versioning</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c77666c-aa4d-44f0-b0d6-50e31f577cdb</testCaseGuid>
+</TestCaseEntity>

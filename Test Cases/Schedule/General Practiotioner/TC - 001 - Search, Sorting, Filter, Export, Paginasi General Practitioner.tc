@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 - Search, Sorting, Filter, Export, Paginasi General Practitioner</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90bcb10e-4e4b-41c2-845c-49494ef63720</testCaseGuid>
+</TestCaseEntity>

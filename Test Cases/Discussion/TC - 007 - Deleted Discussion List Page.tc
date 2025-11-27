@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 007 - Deleted Discussion List Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1140701b-fa24-49d0-bae9-8a6035b35a34</testCaseGuid>
+</TestCaseEntity>

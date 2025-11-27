@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter_all status</name>
+   <tag></tag>
+   <elementGuidId>d955dbe3-3ed7-410c-bf63-029049685d2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='status']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#status</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#status</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fd49cf76-75a1-4a03-ac24-f993a0f1bfa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>ea14e84c-7cdb-4754-9c86-4bb1a42a67ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>8a4b173e-b8d6-41bf-b7b3-1bf1ac75931c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>this.form.submit()</value>
+      <webElementGuid>f6e98c62-e291-48dd-b204-7470b5297023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>All Status</value>
+      <webElementGuid>99de094a-36c8-4ad1-8a4a-bc8a28b400a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-filter ml-auto w-auto</value>
+      <webElementGuid>e49935a6-f73f-4576-8eae-41bf988bf793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    All Status
+                    Awaiting Payment
+                    Paid
+                    Cancelled
+                    Ongoing
+                    Done
+                    Complained
+                    Success
+                </value>
+      <webElementGuid>50b3a4a8-cee1-48cb-b27b-5c64ea95ae01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;status&quot;)</value>
+      <webElementGuid>1b9260bc-9cde-4325-86a0-d0c27be58ebf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='status']</value>
+      <webElementGuid>ffb9118c-f874-4303-a2c3-ab105d0bf09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[3]/following::select[1]</value>
+      <webElementGuid>225f46e3-9d66-46a4-ba8e-014cd45d489f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage User Backoffice'])[2]/following::select[1]</value>
+      <webElementGuid>1820a738-25ce-4aca-897a-9d1e36ac75f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='November 20, 2025 - December 20, 2025'])[1]/preceding::select[4]</value>
+      <webElementGuid>97cec619-3a3d-4eaa-8481-360ab919abff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/preceding::select[5]</value>
+      <webElementGuid>f3311c5f-5cb0-49cc-a6f8-b7fad22d394c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>8e7349f5-84b2-4183-a365-d3b53318a4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'status' and @id = 'status' and @placeholder = 'All Status' and (text() = '
+                    All Status
+                    Awaiting Payment
+                    Paid
+                    Cancelled
+                    Ongoing
+                    Done
+                    Complained
+                    Success
+                ' or . = '
+                    All Status
+                    Awaiting Payment
+                    Paid
+                    Cancelled
+                    Ongoing
+                    Done
+                    Complained
+                    Success
+                ')]</value>
+      <webElementGuid>1ff0a5a9-3e9c-487b-a4a8-15ac2d57499a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_tanggal</name>
+   <tag></tag>
+   <elementGuidId>75297bb0-8329-4f25-8d64-9c225dbd60ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar_dashboard']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fc-listWeek-view.fc-view.fc-list.fc-list-sticky</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;16 – 22 Nov 2025&quot;i >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4501b37e-108e-4a35-b89e-f10c074d9309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-listWeek-view fc-view fc-list fc-list-sticky</value>
+      <webElementGuid>e4c5ecbb-48ba-4148-86c1-eacc1046f17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TimeEventMinggu16 November 202518.00 - 19.00dr Juno Test18.00 - 19.00Dr Semakin di Devan19.00 - 20.00dr Juno Test19.00 - 20.00Dr Semakin di Devan20.00 - 21.00dr Juno Test20.00 - 21.00Dr Semakin di Devan21.00 - 22.00dr Juno Test21.00 - 22.00Dr Semakin di Devan22.00 - 23.00dr Juno Test22.00 - 23.00Dr Semakin di DevanSenin17 November 20257.00 - 8.00Dr Semakin di Devan8.00 - 9.00Dr Semakin di Devan11.00 - 12.00dr Juno Test12.00 - 13.00dr Juno Test13.00 - 14.00dr Juno Test13.00 - 14.00Dr Semakin di Devan14.00 - 15.00dr Juno Test14.00 - 15.00Dr Semakin di Devan15.00 - 16.00dr Juno Test15.00 - 16.00Dr Semakin di Devan16.00 - 17.00dr Juno Test16.00 - 17.00Dr Semakin di Devan17.00 - 18.00dr Juno Test17.00 - 18.00Dr Semakin di Devan18.00 - 19.00dr Juno Test18.00 - 19.00Dr Semakin di DevanSelasa18 November 202512.00 - 13.00Dr Semakin di Devan13.00 - 14.00Dr Semakin di Devan14.00 - 15.00Dr Semakin di Devan15.00 - 16.00Dr Semakin di Devan16.00 - 17.00Dr Semakin di Devan17.00 - 18.00Dr Semakin di Devan18.00 - 19.00Dr Semakin di Devan19.00 - 20.00Dr Semakin di Devan</value>
+      <webElementGuid>2c8a78c0-08c4-4fc7-acd4-b99a90dbfdd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendar_dashboard&quot;)/div[@class=&quot;fc-view-harness fc-view-harness-active&quot;]/div[@class=&quot;fc-listWeek-view fc-view fc-list fc-list-sticky&quot;]</value>
+      <webElementGuid>a3c8e755-e66c-437c-b03d-694461a92068</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendar_dashboard']/div[2]/div</value>
+      <webElementGuid>b72c66ff-f983-401e-8b23-bdcabbc1a502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='today'])[1]/following::div[3]</value>
+      <webElementGuid>b1598a60-c328-45ac-9da1-5863ac2fff89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>c159055f-3517-47c6-aa3c-4657be0b4aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TimeEventMinggu16 November 202518.00 - 19.00dr Juno Test18.00 - 19.00Dr Semakin di Devan19.00 - 20.00dr Juno Test19.00 - 20.00Dr Semakin di Devan20.00 - 21.00dr Juno Test20.00 - 21.00Dr Semakin di Devan21.00 - 22.00dr Juno Test21.00 - 22.00Dr Semakin di Devan22.00 - 23.00dr Juno Test22.00 - 23.00Dr Semakin di DevanSenin17 November 20257.00 - 8.00Dr Semakin di Devan8.00 - 9.00Dr Semakin di Devan11.00 - 12.00dr Juno Test12.00 - 13.00dr Juno Test13.00 - 14.00dr Juno Test13.00 - 14.00Dr Semakin di Devan14.00 - 15.00dr Juno Test14.00 - 15.00Dr Semakin di Devan15.00 - 16.00dr Juno Test15.00 - 16.00Dr Semakin di Devan16.00 - 17.00dr Juno Test16.00 - 17.00Dr Semakin di Devan17.00 - 18.00dr Juno Test17.00 - 18.00Dr Semakin di Devan18.00 - 19.00dr Juno Test18.00 - 19.00Dr Semakin di DevanSelasa18 November 202512.00 - 13.00Dr Semakin di Devan13.00 - 14.00Dr Semakin di Devan14.00 - 15.00Dr Semakin di Devan15.00 - 16.00Dr Semakin di Devan16.00 - 17.00Dr Semakin di Devan17.00 - 18.00Dr Semakin di Devan18.00 - 19.00Dr Semakin di Devan19.00 - 20.00Dr Semakin di Devan' or . = 'TimeEventMinggu16 November 202518.00 - 19.00dr Juno Test18.00 - 19.00Dr Semakin di Devan19.00 - 20.00dr Juno Test19.00 - 20.00Dr Semakin di Devan20.00 - 21.00dr Juno Test20.00 - 21.00Dr Semakin di Devan21.00 - 22.00dr Juno Test21.00 - 22.00Dr Semakin di Devan22.00 - 23.00dr Juno Test22.00 - 23.00Dr Semakin di DevanSenin17 November 20257.00 - 8.00Dr Semakin di Devan8.00 - 9.00Dr Semakin di Devan11.00 - 12.00dr Juno Test12.00 - 13.00dr Juno Test13.00 - 14.00dr Juno Test13.00 - 14.00Dr Semakin di Devan14.00 - 15.00dr Juno Test14.00 - 15.00Dr Semakin di Devan15.00 - 16.00dr Juno Test15.00 - 16.00Dr Semakin di Devan16.00 - 17.00dr Juno Test16.00 - 17.00Dr Semakin di Devan17.00 - 18.00dr Juno Test17.00 - 18.00Dr Semakin di Devan18.00 - 19.00dr Juno Test18.00 - 19.00Dr Semakin di DevanSelasa18 November 202512.00 - 13.00Dr Semakin di Devan13.00 - 14.00Dr Semakin di Devan14.00 - 15.00Dr Semakin di Devan15.00 - 16.00Dr Semakin di Devan16.00 - 17.00Dr Semakin di Devan17.00 - 18.00Dr Semakin di Devan18.00 - 19.00Dr Semakin di Devan19.00 - 20.00Dr Semakin di Devan')]</value>
+      <webElementGuid>b9a71e5a-ae4a-450e-b470-083205345623</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
